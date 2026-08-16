@@ -75,7 +75,6 @@ breaking something interesting
 fixing it
 repeat.
 ```
-
 </div>
 
 ---
