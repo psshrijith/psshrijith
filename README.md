@@ -81,18 +81,6 @@ repeat.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=psshrijith&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=psshrijith&hide_border=true&theme=transparent" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/psshrijith/psshrijith/output/github-contribution-grid-snake.svg" />
-
-<br><br>
-
 <sub>still figuring things out. that's the fun part.</sub>
 
 </div>
