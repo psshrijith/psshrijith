@@ -64,17 +64,22 @@ Tools         → Git · GitHub · Postman · JIRA
 
 <br>
 
+---
+
 <div align="center">
+
+
 
 ### `git log --oneline`
 
-```text
-learning something new
-building something small
-breaking something interesting
-fixing it
+<p>
+learning something new<br>
+building something small<br>
+breaking something interesting<br>
+fixing it<br>
 repeat.
-```
+</p>
+
 </div>
 
 ---
