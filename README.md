@@ -30,7 +30,7 @@
 │  frontend engineering and the web platform.          │
 │                                                      │
 │  Currently → React + TypeScript + JavaScript         │
-│  Always   → Learn → Build → Understand              │
+│  Always   → Learn → Build → Understand               │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
@@ -47,9 +47,10 @@
 
 ### `./stack`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,playwright,cypress,git,github" />
-</p>
+Frontend      → React · TypeScript · JavaScript · Tailwind CSS
+Testing       → Playwright · Cypress · WebdriverIO · Selenium
+Languages     → Java · Python · C++
+Tools         → Git · GitHub · Postman · JIRA
 
 ---
 
