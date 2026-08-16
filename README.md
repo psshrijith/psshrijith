@@ -2,7 +2,7 @@
 
 <br>
 
-# `shrijith.ps`
+# `ps shrijith`
 
 ### software engineer · frontend · quality
 
