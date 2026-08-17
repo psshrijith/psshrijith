@@ -69,7 +69,6 @@ Tools         → Git · GitHub · Postman · JIRA
 <div align="center">
 
 
-
 ### `git log --oneline`
 
 <p>
